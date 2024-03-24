@@ -1,2 +1,1 @@
-# prology
-Logic Programming in Python
+# Prology: Logic Programming in Python
